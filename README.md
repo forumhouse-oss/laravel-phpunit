@@ -1,6 +1,12 @@
 Laravel-PHPUnit Helpers
 ====================================
 
+ Metrics | _
+---|---
+Version | [![PHP version](https://badge.fury.io/ph/fhteam%2Flaravel-phpunit.svg)](http://badge.fury.io/ph/fhteam%2Flaravel-phpunit)
+Compatibility | [![Laravel compatibility](https://img.shields.io/badge/laravel-5-green.svg)](http://laravel.com/)
+Quality | [![Code Climate](https://codeclimate.com/github/fhteam/laravel-phpunit/badges/gpa.svg)](https://codeclimate.com/github/fhteam/laravel-phpunit)
+
 This small library contains some helpers for phpUnit.
 
 Base features
