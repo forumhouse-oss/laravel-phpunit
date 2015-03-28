@@ -1,4 +1,4 @@
-<?php namespace FH\Stock\Tests;
+<?php namespace FHTeam\LaravelPHPUnit;
 
 use Exception;
 use Illuminate\Foundation\Application;

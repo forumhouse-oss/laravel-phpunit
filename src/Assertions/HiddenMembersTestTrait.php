@@ -1,4 +1,8 @@
-<?php
+<?php namespace FHTeam\LaravelPHPUnit\Assertions;
+
+use Exception;
+use PHPUnit_Framework_TestCase;
+use ReflectionClass;
 
 /**
  * Trait to test private and protected class members. WARNING: Testing an object's protected or private properties
